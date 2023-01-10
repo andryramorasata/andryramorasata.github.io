@@ -1,7 +1,8 @@
 ---
-title: "AHRR"
+image: images/headshot.jpeg
+about:
+    template: jolla
+    image-width: 30em
+    image-shape: round   
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
