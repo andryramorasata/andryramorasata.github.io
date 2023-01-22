@@ -3,9 +3,9 @@ project:
 
 website:
   sidebar:
-    style: "floating"
-    subtitle: "directory"
+    style: "docked"
     contents:
+      title: "directory"
       - section: "Reading"
       - section: "Writing"
       - section: "Projects"
