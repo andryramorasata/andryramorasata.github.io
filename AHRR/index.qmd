@@ -3,6 +3,6 @@ image: images/headshot.jpeg
 about:
     template: jolla
     image-width: 20em
-    image-shape: round   
+    image-shape: round 
 ---
 

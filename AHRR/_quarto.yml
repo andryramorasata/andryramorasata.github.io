@@ -3,8 +3,8 @@ project:
 
 website:
   sidebar:
-    style: "docked"
-    text: "directory"
+    style: "floating"
+    subtitle: "directory"
     contents:
       - section: "Reading"
       - section: "Writing"
@@ -32,7 +32,6 @@ format:
       light: cosmo
       dark: cosmo
     toc: true
-    page-layout: full
     
 
 
