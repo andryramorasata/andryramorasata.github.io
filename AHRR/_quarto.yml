@@ -5,7 +5,6 @@ website:
   sidebar:
     style: "docked"
     contents:
-      - title: "directory"
       - section: "Reading"
       - section: "Writing"
       - section: "Projects"
