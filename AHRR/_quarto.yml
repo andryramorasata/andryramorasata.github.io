@@ -4,6 +4,7 @@ project:
 website:
   sidebar:
     style: "docked"
+    title: "directory"
     contents:
       - section: "Reading"
       - section: "Writing"
