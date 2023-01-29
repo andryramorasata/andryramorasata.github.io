@@ -31,6 +31,7 @@ format:
       light: cosmo
       dark: cosmo
     toc: true
+    alignment: center
     
 
 
