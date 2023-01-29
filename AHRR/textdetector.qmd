@@ -3,7 +3,7 @@ title: "Text Detection Model"
 format: html
 project-type: website
 ---
-Below is a demo of the text detection model. It is a simple web app that takes an image as input and returns whether the image has text or not. The model is trained on the result set of seraching 'background image' on DuckDuckGo. 
+Below is a demo of the text detection model. It is a simple web app that takes an image as input and returns whether the image has text or not. The model is trained on the result set of seraching 'background image' on DuckDuckGo. Test further changes.
 
 <iframe
 	src="https://ahrr-textidentifier.hf.space"
