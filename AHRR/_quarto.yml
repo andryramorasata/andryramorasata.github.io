@@ -8,8 +8,8 @@ website:
       - section: "Reading"
       - section: "Writing"
       - section: "Projects"
-          contents:
-            digitdetector.qmd
+        contents:
+          - digitdetector.qmd
   title: "AHRR"
   search: false
   navbar:
