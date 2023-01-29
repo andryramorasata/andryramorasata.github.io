@@ -9,7 +9,7 @@ website:
       - section: "Writing"
       - section: "Projects"
         contents:
-          - digitdetector.qmd
+          - textdetector.qmd
   title: "AHRR"
   search: false
   navbar:
